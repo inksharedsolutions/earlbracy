@@ -9,7 +9,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
-             <Helmet title="About the Author | Earl Bracy"/>
+             <Helmet title="About the Author | Dr. Earl Bracy"/>
 		 		<Nav pathExt={props.path}/>
                  <Banner 
                  spanFirst={`About The`}
@@ -48,7 +48,6 @@ const ATB = (props)=>{
                                     <li>- Sexual Abuse issues</li>
                                     <li>- Anger Management</li>
                                     <li>- Consultation</li>
-                                    <li>- Grief and Bereavement</li>
                                     <li>- Facilitation of Foster Parent Clinics</li>
                                     <li>- Workshops in the area of bereavement,stress management,violence and other topics pertaining to mental health</li>
                                 </ul>

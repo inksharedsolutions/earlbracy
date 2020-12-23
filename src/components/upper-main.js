@@ -31,7 +31,7 @@ const UpperMain =()=>{
 
                         <div classNames="content-img-wrapper">
                             <section className="content-wrapper-body">
-                                <h1>Earl Bracy</h1>
+                                <h1>Dr. Earl Bracy</h1>
                                 <span>Author & Writer</span>
 
                                 <p>
@@ -43,7 +43,6 @@ const UpperMain =()=>{
                                         <li>- Sexual Abuse issues</li>
                                         <li>- Anger Management</li>
                                         <li>- Consultation</li>
-                                        <li>- Grief and Bereavement</li>
                                         <li>- Facilitation of Foster Parent Clinics</li>
                                         <li>- Workshops in the area of bereavement,stress management,violence and other topics pertaining to mental health</li>
                                     </ul>

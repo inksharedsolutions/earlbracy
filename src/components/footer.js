@@ -9,9 +9,9 @@ const Footer = ()=>{
         <>  
             <footer className="footer-section">
                 <div className="container-gt" id="footer-info">
-                    <h1>Earl Bracy</h1>
+                    <h1>Dr. Earl Bracy</h1>
                     <p className="param-footer">
-                        Earl Bracy loves to hear from readers. You can reach him via email. 
+                        Dr. Earl Bracy loves to hear from readers. You can reach him via email. 
                         Feel free to send questions about writing, his works, interviews 
                         and other publicity matters.
                     </p> 

@@ -28,7 +28,7 @@ const TaC = (props) =>{
 	return(
 	 	<>
 	 		<Layout>
-			 <Helmet title="Terms and Conditions | Earl Bracy"/>
+			 <Helmet title="Terms and Conditions | Dr. Earl Bracy"/>
                  <Nav pathExt={props.path}/>
                     <Banner 
                             spanFirst={`Terms And`}

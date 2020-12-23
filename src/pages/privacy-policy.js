@@ -27,7 +27,7 @@ const Pp = (props) =>{
 	return(
 		<>
 		 	<Layout>
-			 <Helmet title="Privacy Policy | Earl Bracy"/>
+			 <Helmet title="Privacy Policy | Dr. Earl Bracy"/>
 			 	<Nav pathExt={props.path}/>
 
                 <Banner 
